@@ -1,8 +1,11 @@
-﻿SmartyCP
+  ______                               _______ ______  
+ / _____)                    _        (_______|_____ \ 
+( (____  ____  _____  ____ _| |_ _   _ _       _____) )
+ \____ \|    \(____ |/ ___|_   _) | | | |     |  ____/ 
+ _____) ) | | / ___ | |     | |_| |_| | |_____| |    _ 
+(______/|_|_|_\_____|_|      \__)\__  |\______)_|   (_)
+                                (____/    
 ===============
 O SmartyCP é um painel administrativo de Ragnarök Online
 ### Desenvolvedores
 - Envolvents			- Wellington Ferraz
-- Cainho			- Caio Mateus
-- Wolf		- João Senos
-- SoulBlaker		- Romulo Sousa
